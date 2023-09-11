@@ -7,4 +7,4 @@ def generate_random_code(length):
     return code
         # Change the 5 in the parenthesis to any higher/lower number if needed
 random_code = generate_random_code(10)
-print ("Code generates is:", random_code)
+print ("Code generated is:", random_code)
